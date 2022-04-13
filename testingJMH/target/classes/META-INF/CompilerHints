@@ -1,0 +1,12 @@
+dontinline,*.*_all_jmhStub
+dontinline,*.*_avgt_jmhStub
+dontinline,*.*_sample_jmhStub
+dontinline,*.*_ss_jmhStub
+dontinline,*.*_thrpt_jmhStub
+inline,JMH_testing/LinkedListIterationBenchMark.forEachIterate
+inline,JMH_testing/LinkedListIterationBenchMark.forIndexIterate
+inline,JMH_testing/LinkedListIterationBenchMark.setUp
+inline,JMH_testing02/BenchMark.arrayRemove
+inline,JMH_testing02/BenchMark.arrayTraverse
+inline,JMH_testing02/BenchMark.init
+inline,JMH_testing02/BenchMark.listTraverse

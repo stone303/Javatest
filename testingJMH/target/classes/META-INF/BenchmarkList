@@ -1,0 +1,4 @@
+JMH S 23 JMH_testing02.BenchMark S 55 JMH_testing02.generated.BenchMark_arrayTraverse_jmhTest S 13 arrayTraverse S 10 Throughput E A 1 1 1 E I 1 4 E E I 2 10 E E I 1 2 E E E E E M 1 1 n 4 2 10 2 30 2 60 2 90 U 12 MILLISECONDS E E 
+JMH S 40 JMH_testing.LinkedListIterationBenchMark S 74 JMH_testing.generated.LinkedListIterationBenchMark_forIndexIterate_jmhTest S 15 forIndexIterate S 10 Throughput I 2 -1 A 1 1 1 E E E E E E E E E E E E E E U 7 SECONDS E E 
+JMH S 40 JMH_testing.LinkedListIterationBenchMark S 73 JMH_testing.generated.LinkedListIterationBenchMark_forEachIterate_jmhTest S 14 forEachIterate S 10 Throughput I 2 -1 A 1 1 1 E E E E E E E E E E E E E E U 7 SECONDS E E 
+JMH S 23 JMH_testing02.BenchMark S 54 JMH_testing02.generated.BenchMark_listTraverse_jmhTest S 12 listTraverse S 10 Throughput E A 1 1 1 E I 1 4 E E I 2 10 E E I 1 2 E E E E E M 1 1 n 4 2 10 2 30 2 60 2 90 U 12 MILLISECONDS E E 

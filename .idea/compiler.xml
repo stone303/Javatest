@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="testing02" />
+        <module name="testing03" />
+        <module name="testing01" />
+        <module name="generics" />
+        <module name="testing04" />
+        <module name="testingJMH" />
+        <module name="teststorybook" />
+        <module name="testjavaxuexishe" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="generics" target="1.8" />
+      <module name="testing01" target="1.8" />
+      <module name="testing02" target="1.8" />
+      <module name="testing03" target="1.8" />
+      <module name="testing04" target="1.8" />
+      <module name="testingJMH" target="1.8" />
+      <module name="testjavaxuexishe" target="1.8" />
+      <module name="teststorybook" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

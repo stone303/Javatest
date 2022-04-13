@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/generics/generics.iml" filepath="$PROJECT_DIR$/generics/generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testing01/testing01.iml" filepath="$PROJECT_DIR$/testing01/testing01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testing02/testing02.iml" filepath="$PROJECT_DIR$/testing02/testing02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testing03/testing03.iml" filepath="$PROJECT_DIR$/testing03/testing03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testing04/testing04.iml" filepath="$PROJECT_DIR$/testing04/testing04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testingJMH/testingJMH.iml" filepath="$PROJECT_DIR$/testingJMH/testingJMH.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testjavaxuexishe/testjavaxuexishe.iml" filepath="$PROJECT_DIR$/testjavaxuexishe/testjavaxuexishe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/teststorybook/teststorybook.iml" filepath="$PROJECT_DIR$/teststorybook/teststorybook.iml" />
+    </modules>
+  </component>
+</project>
